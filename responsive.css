@@ -1,0 +1,51 @@
+.container
+{
+width:90%;
+margin:0 auto;
+}
+
+.one-third
+{
+width:47.5%;
+}
+.one-third-second
+{
+margin:0;
+}
+
+.one-third-last
+{
+float:none;
+width:auto;
+padding:20px 0 0 0;
+}
+
+.navigation ul li
+{
+width:25%;
+
+}
+
+.box
+{
+width:33%;
+display:inline-block;
+
+}
+
+@media only screen and (max-width:620)
+{
+.navigation ul li
+{
+width:33%;
+}
+}
+
+@media only screen and (max-width:500)
+{
+.navigation ul li
+{
+width:50%;
+font-size:85%;
+}
+}

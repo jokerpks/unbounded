@@ -1,0 +1,112 @@
+body{
+    margin: auto;
+    font-family: Hervetica, arial, sans-serif;
+    background: #FFF;
+    
+}
+
+.nav_upper{
+    column-count: 3;
+    float: left;
+    font-size: 93%;
+    background: #FFF;
+}
+
+
+#spinner {
+  background: url(loading.gif) no-repeat 5px 3px;
+  padding-left: 20px;
+}
+
+
+
+#d4d4d4
+.nav_bar {
+    margin: auto;
+    background:#E9E9E9;
+    width: 1000px;
+    height: 84px;
+    padding: 30px 60px 50px 50px
+}
+
+.nav_bar ul {
+    list-style: none;
+    height: 165px;
+    background:#E9E9E9; 
+
+}
+.nav_bar ul li{
+    float: left;
+    font-size: 93%;
+    padding: 0px 0px 15px 0px;
+}
+
+.nav_bar ul li a {
+
+    text-decoration: none;
+    color: #000000;
+    background: #d4d4d4;
+    border-bottom: none;
+    padding: 12px 12px 12px 12px;
+    border-right-style: solid;
+    border-right-width: thin;  
+}
+/* Thirds */
+div.thirds {
+padding-bottom: 50px;
+}
+div.one-third {
+width: 30%;
+float: left;
+}
+div.one-third-last {
+margin: 0;
+}
+/* Main Column */
+div.main {
+width: 65%;
+float: left;
+margin-right: 5%;
+background: #FFF; 
+margin-top: 0%;
+}
+/* Side Column */
+div.side {
+width: 30%;
+float: right;
+}
+/* Info Box */
+div.info-box-a {
+background:#9bdaef;
+padding: 0px;
+font-size: 13px;
+margin:0 0 0 0;    
+}
+div.info-box-b {
+background-color: #efdb7f;
+padding: 0px;
+font-size: 13px;
+margin: 0 0 0 0;
+}
+
+div.bottom{
+    background: #3f3f3f;
+    font-size: 13px;
+    padding: 20px 20px 20ox 20px;
+    color: white;
+    width: 100%;
+    float: left;
+    margin-right: 5%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
